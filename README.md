@@ -1,6 +1,7 @@
 # Fase2
 
-# Participantes: frankiyonki, martinagg7, alejandru00, 
+# Participantes: 
+frankiyonki, martinagg7, alejandru00, 
 
 # Link del repositorio:
 [Github: https://github.com/alejandru00/Fase2.git]
@@ -25,7 +26,7 @@ Sin Pandas:
 -> Bosques aleatorios (Usando un algoritmo de aprendizaje automático más sofisticado).
 
 
-
+--------------------------------
 
 Con Pandas:
 
