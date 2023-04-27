@@ -25,6 +25,7 @@ Sin Pandas:
 -> Bosques aleatorios(Usando un algoritmo de aprendizaje automático más sofisticado)
 
 
+
 Con Pandas:
 
 -> Crear, leer y escribir(No puede trabajar con datos si no puede leerlos)
