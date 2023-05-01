@@ -6,9 +6,9 @@ import math
 
 
 # abrir el archivo y leerlo
-def load_csv(demanda_linea_2022):
+def load_csv(data_lines_metro):
     dataset = []
-    with open(demanda_linea_2022, 'r') as file:
+    with open(data_lines_metro, 'r') as file:
         csv_reader = csv.reader(file)
         for row in csv_reader:
             if not row:
